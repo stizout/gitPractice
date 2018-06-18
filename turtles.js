@@ -1,3 +1,4 @@
 function sayHello() {
-    alert("Hello");
+    alert("Hello!");
+    console.log("you suck!");
 }
